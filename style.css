@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+body{
+    display: flex;
+    background-color: rgb(247, 176, 255);
+    background-image: url(background.png);
+    position: relative;
+    background-position: 0px;
+    background-size: cover;
+}
+
+.marck-script-regular {
+    font-family: "Marck Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Name{
+    font-size: 45px;
+    line-height: 0.8;
+}
+
+h1{
+color:rgb(102, 49, 153);
+font-family: Marck Script;
+}
+.Imya{
+    padding-top: 10%;
+    text-align: center;
+    margin: auto;
+}
+.Pozdravleniye{
+    color:rgb(102, 49, 153);
+    font-family: Marck Script;
+    text-align: justify;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 22px;
+}
